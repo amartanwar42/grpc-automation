@@ -1,0 +1,9 @@
+*.classpath
+.settings/
+target/
+test-output/
+maven-status/
+.project
+.settings/*
+bin/*
+.idea/
